@@ -1,4 +1,4 @@
-#FitLife Steps Tracking Application
+**#FitLife Steps Tracking Application**
 
 <img width="360" height="733" alt="Screenshot 2025-07-27 at 6 27 25 PM" src="https://github.com/user-attachments/assets/8d2ac894-0613-41a5-8378-59f73eedbc54" />
 <img width="359" height="732" alt="Screenshot 2025-07-27 at 6 34 55 PM" src="https://github.com/user-attachments/assets/5777cce0-8c4a-431a-af2b-76f89cd94477" />
